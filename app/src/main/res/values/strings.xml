@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Widget</string>
+    <string name="widget_name">Widget Name</string>
+    <string name="widget_text">Widget Text</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="ok">OK</string>
+</resources>
